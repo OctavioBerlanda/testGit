@@ -1,8 +1,0 @@
-mkdir "" --> Para crear una carpeta.
-touch "" --> Para crear un archivo en la carpeta.
-git add "" --> Para trackear un archivo.
-git commit -m "Este es mi primer commit" "" --> Añadir imagen al proyecto.
-git status --> Ver el estado de la carpeta.
-git checkout --> Para situarse en un punto concreto.
-git log --> Muestra los commits.
-
