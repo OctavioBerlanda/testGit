@@ -1,0 +1,2 @@
+mkdir "" --> Para crear una carpeta.
+touch "" --> Para crear un archivo en la carpeta.
