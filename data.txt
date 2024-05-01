@@ -1,4 +1,0 @@
-Frieren;Elf
-Himmel;Hero
-Eisen;Duarf
- Hello, this is appended!
